@@ -60,10 +60,10 @@ Null values in column country were replaced by 'others'.
 
 Null values in column children were replaced by the mean of the column.
 
-# Converting columns to appropriate data types
+# Converting columns to appropriate data types:
 Changed data type of children, company, agent to int type.
 
-# Exploratory Data Analysis
+# Exploratory Data Analysis:
 Performed EDA and tried answering the following questions:
 
 Q1) Which agent makes the most no. of bookings?
@@ -106,7 +106,7 @@ Heatmap
 
 Box Plot
 
-# Univariate Analysis
+# Univariate Analysis:
 Performed univariate analysis and made following conclusions:
 
 - Agent no. 9 has made most no. of bookings.
@@ -123,7 +123,7 @@ Performed univariate analysis and made following conclusions:
 
 - Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
 
-# Conclusion
+# Conclusion:
 The dataset has 119390 row and 32 columns
 - Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
 
